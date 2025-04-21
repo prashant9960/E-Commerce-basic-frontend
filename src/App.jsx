@@ -4,7 +4,7 @@ import Home from "./pages/Home";
 import Cart from "./pages/Cart";
 import { ContactProvider } from './context/ContactContext';
 import ContactForm from './components/ContactForm';
-import ContactList from './components/ContactList'; // optional
+import ContactList from './components/ContactList'; 
 
 const App = () => {
   return (
